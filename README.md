@@ -9,7 +9,7 @@ Calculate RSI For Bitcoin With Python
 <br><br>
 
 # Introduction
-<p>RSI Detection Recognition is a computer vision project that aims to detect and recognize RSI From Datas.</p>
+<p>RSI Code is a computer vision project that aims to detect and recognize RSI From Datas.</p>
 
 <br><br>
 
