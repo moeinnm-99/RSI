@@ -1,4 +1,4 @@
-# File Will Uploaded Soon...
+a# File Will Uploaded Soon...
 # Please Wait And Follow Me Tnx...
 
 
@@ -7,7 +7,7 @@
 Calculate RSI For Bitcoin With Python
 
 
-<img src="https://github.com/moeinnm-99/RSI/blob/main/RSI.png" align="center" alt="RSI">
+<img src="https://github.com/moeinnm-99/RSI/blob/main/RSI.png" align="center" alt="RSI">a
 
 <br><br>
 
