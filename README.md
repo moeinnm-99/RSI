@@ -72,4 +72,4 @@ Calculate RSI For Bitcoin With Python
 - Database
 - AI
 - Tensorflow
-aaaaa
+aaaaaa
